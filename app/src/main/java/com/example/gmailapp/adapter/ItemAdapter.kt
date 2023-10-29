@@ -7,8 +7,8 @@ import android.view.ViewGroup
 import android.widget.ArrayAdapter
 import android.widget.ImageView
 import android.widget.TextView
-import com.example.gmailapp.R
 import com.example.gmailapp.model.MailData
+import com.example.lapping.R
 
 class ItemAdapter(
     private val context: Context,

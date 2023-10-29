@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.ListView
 import com.example.gmailapp.adapter.ItemAdapter
 import com.example.gmailapp.model.MailData
+import com.example.lapping.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
